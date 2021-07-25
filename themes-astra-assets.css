@@ -245,6 +245,7 @@ line-height: 15px!important;
 	height:auto;
 	border-radius:5px;
 	position:center bottom;
+	text-decoration: none;
   }
 }
 @media screen and (orientation: landscape) {
@@ -253,6 +254,7 @@ line-height: 15px!important;
 	display: flex;
 	justify-content: center;
     bottom: 50px; 
+	text-decoration: none;
 	}
 }
 
